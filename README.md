@@ -1,10 +1,14 @@
-# Setup-Check
+# Claude Code Schulung
+
+Materialien zur Schulung Claude Code.
+
+## Setup-Check
 
 Prüft, ob Git, JDK 21 und der Maven-Build auf Ihrem Rechner laufen. Maven müssen Sie nicht installieren, der Wrapper lädt es selbst.
 
 ```powershell
-git clone https://github.com/grigory-consulting/claude-code-setup-check.git
-cd claude-code-setup-check
+git clone https://github.com/grigory-consulting/claude-code-schulung.git
+cd claude-code-schulung
 .\mvnw.cmd test
 ```
 

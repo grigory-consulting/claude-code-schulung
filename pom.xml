@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.uebung</groupId>
-    <artifactId>setup-check</artifactId>
+    <artifactId>claude-code-schulung</artifactId>
     <version>1.0.0</version>
-    <name>Setup-Check</name>
+    <name>Claude Code Schulung</name>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
